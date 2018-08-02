@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="10553" started-at="2018-08-02T14:03:23Z" finished-at="2018-08-02T14:03:34Z">
+  <suite name="Default suite" duration-ms="13580" started-at="2018-08-02T14:07:45Z" finished-at="2018-08-02T14:07:59Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="10553" started-at="2018-08-02T14:03:23Z" finished-at="2018-08-02T14:03:34Z">
+    <test name="Default test" duration-ms="13580" started-at="2018-08-02T14:07:45Z" finished-at="2018-08-02T14:07:59Z">
       <class name="TestSoftvision.DemoQA.demoqacom.HomePageTest">
-        <test-method status="PASS" signature="initialSetUP()[pri:0, instance:TestSoftvision.DemoQA.demoqacom.HomePageTest@14bf9759]" name="initialSetUP" is-config="true" duration-ms="3547" started-at="2018-08-02T14:03:23Z" finished-at="2018-08-02T14:03:27Z">
+        <test-method status="PASS" signature="initialSetUP()[pri:0, instance:TestSoftvision.DemoQA.demoqacom.HomePageTest@14bf9759]" name="initialSetUP" is-config="true" duration-ms="3579" started-at="2018-08-02T14:07:45Z" finished-at="2018-08-02T14:07:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initialSetUP -->
-        <test-method status="PASS" signature="homePageTest()[pri:0, instance:TestSoftvision.DemoQA.demoqacom.HomePageTest@14bf9759]" name="homePageTest" duration-ms="6929" started-at="2018-08-02T14:03:27Z" finished-at="2018-08-02T14:03:34Z">
+        <test-method status="PASS" signature="homePageTest()[pri:0, instance:TestSoftvision.DemoQA.demoqacom.HomePageTest@14bf9759]" name="homePageTest" duration-ms="9955" started-at="2018-08-02T14:07:49Z" finished-at="2018-08-02T14:07:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- homePageTest -->
-        <test-method status="PASS" signature="tearDownTest()[pri:0, instance:TestSoftvision.DemoQA.demoqacom.HomePageTest@14bf9759]" name="tearDownTest" is-config="true" duration-ms="47" started-at="2018-08-02T14:03:34Z" finished-at="2018-08-02T14:03:34Z">
+        <test-method status="PASS" signature="tearDownTest()[pri:0, instance:TestSoftvision.DemoQA.demoqacom.HomePageTest@14bf9759]" name="tearDownTest" is-config="true" duration-ms="46" started-at="2018-08-02T14:07:59Z" finished-at="2018-08-02T14:07:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownTest -->

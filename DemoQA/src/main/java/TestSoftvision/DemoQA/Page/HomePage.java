@@ -21,6 +21,7 @@ public class HomePage extends BasePage {
 	
 	public HomePage clickOnElement(String selector, String selectorType)
 	{
+		utilsSelenium.waitForWebElement(selector, selectorType);
 		utilsSelenium.clickWebElement(selector, selectorType);
 		return this;
 	}
